@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Computer
+comment1.params=joueur
+comment1.target=Computer(char)
+comment2.params=G
+comment2.target=void\ play(Grille)
+comment2.text=\r\n\ Cette\ m\u00E9thode\ permet\ \u00E0\ l'ordinateur\ de\ jouer\ son\ coup\ et\ v\u00E9rifier\ si\ ce\ dernier\ est\ valide\r\n\ @param\ G\ La\ grille\ de\ la\ partie\ actuelle\r\n
+numComments=3

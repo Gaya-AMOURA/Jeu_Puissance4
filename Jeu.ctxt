@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Jeu
+comment1.params=j1\ j2\ colonne\ ligne
+comment1.target=Jeu(Player,\ Player,\ int,\ int)
+comment2.params=
+comment2.target=Grille\ getGrille()
+comment3.params=i
+comment3.target=Player\ getPlayer(int)
+comment4.params=
+comment4.target=void\ play()
+comment4.text=\n\ Cette\ m\u00E9thode\ est\ la\ principale\ m\u00E9thode\ qui\ lance\ le\ jeu\ et\ d\u00E9termine\ quel\ joueur\ a\ gagn\u00E9\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

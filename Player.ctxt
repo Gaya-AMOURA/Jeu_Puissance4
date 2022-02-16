@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=Name\ joueur
+comment1.target=Player(java.lang.String,\ char)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=char\ getJoueur()
+comment4.params=G
+comment4.target=void\ play(Grille)
+comment4.text=\r\n\ Cette\ m\u00E9thode\ permet\ au\ joueur\ de\ saisir\ son\ coup\ et\ v\u00E9rifier\ si\ ce\ dernier\ est\ valide\r\n\ @param\ G\ La\ grille\ de\ la\ partie\ actuelle\r\n
+numComments=5
